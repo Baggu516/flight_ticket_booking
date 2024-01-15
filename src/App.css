@@ -1,0 +1,36 @@
+/* .footer{
+  position:absolute;
+  left:0;
+  bottom:0;
+  right:0;
+  margin: 0;
+  padding: 0;
+  color:rgb(198, 175, 140)
+} */
+.MuiInputBase-input  {
+  height: 10px !important;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #DDD;
+}
+
+tr:hover {background-color: #D6EEEE;}
+button{
+  border:none;
+  border-radius: 5px;
+  margin: 0.2rem;
+  cursor: pointer;
+  padding: 0.5rem;
+  background: #111;
+  color: #fff
+}
+button:hover {
+  background: rgb(45, 44, 44)
+}

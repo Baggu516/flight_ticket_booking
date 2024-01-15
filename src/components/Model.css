@@ -1,0 +1,15 @@
+.footerr{
+    background-color: #eda4a4;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    color: black;
+    margin-top: 100px;
+    /* margin: 50px; */
+    text-align: center;
+}
+.footerr h2{
+    margin: 0px;
+}
